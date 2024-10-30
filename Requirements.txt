@@ -1,7 +1,7 @@
- os
- pandas 
- numpy 
- matplotlib
+os
+pandas 
+numpy 
+matplotlib
 streamlit 
 streamlit_option_menu 
 skimage
